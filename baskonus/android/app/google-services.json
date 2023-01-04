@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952851426705",
+    "project_id": "baskonuscevir",
+    "storage_bucket": "baskonuscevir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952851426705:android:586ca78ee32e3248bbfe30",
+        "android_client_info": {
+          "package_name": "com.pdf2.baskonus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952851426705-8jbgkl86b7oeqdfsn74vde2g62lf214e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvronPSVhE979akIxsIGebjRnSj3SWzMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952851426705-8jbgkl86b7oeqdfsn74vde2g62lf214e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
